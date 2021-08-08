@@ -1,0 +1,2 @@
+# Syamsi
+fortune guidance
